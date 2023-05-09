@@ -1,6 +1,6 @@
 # Splashscreen Part 1
 
-Tutorial Flutter | Cara Membuat Splash Screen di Flutter
+Project Flutter | Cara Membuat Splash Screen di Flutter
 
 ## Getting Started
 
